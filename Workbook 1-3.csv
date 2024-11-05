@@ -1,0 +1,103 @@
+﻿Genus,Species,Number of instances,Area size sq ft,Neighborhood ,Latitude ,Longitude,Median Income,Native vs Non native ,Eco Region,Initials,,,,
+Solanum,elaeagnifolium,9,"282
+",Central East Austin,30.266396,-97.721521,94929,1,1,LL,,,,
+Paspalum,vaginatum,5000,"282
+",Central East Austin,30.266396,-97.721521,94929,1,1,LL,,,,
+Calyptocarpus,vialis,1150,"282
+",Central East Austin,30.266396,-97.721521,94929,0,1,LL,,,,
+Artemisia,ludoviciana,10,"282
+",Central East Austin,30.266396,-97.721521,94929,0,1,LL,,,,
+Hymenoxys,odorata,51,"282
+",Central East Austin,30.266396,-97.721521,94929,1,1,LL,,,,
+Boerhavia,diffusa,34,"282
+",Central East Austin,30.266396,-97.721521,94929,1,1,LL,,,,
+Stellaria,media,500,"282
+",Central East Austin,30.266396,-97.721521,94929,0,1,LL,,,,
+Portulaca,oleracea,1,"282
+",Central East Austin,30.266396,-97.721521,94929,1,1,LL,,,,
+Gutierrezia,sarothrae,13,"282
+",Central East Austin,30.266396,-97.721521,94929,1,1,LL,,,,
+Cynodon,dactylon,180,"282
+",Central East Austin,30.266396,-97.721521,94929,0,1,LL,,,,
+Sida,Schimperiana,19,"282
+",Central East Austin,30.266396,-97.721521,94929,0,1,LL,,,,
+Platanus,occidentalis,1,"282
+",Central East Austin,30.266396,-97.721521,94929,1,1,LL,,,,
+Oxalis,x,14,"282
+",Central East Austin,30.266396,-97.721521,94929,0,1,LL,,,,
+Axonopus,x,243,"282
+",Mueller,30.296353,-97.702744,84531,1,1,LL,,,,
+Cynodon,dactylon,6000,"282
+",Mueller,30.296353,-97.702744,84531,0,1,LL,,,,
+Ulmus,crassifolia,12,"282
+",Mueller,30.296353,-97.702744,84531,1,1,LL,,,,
+Stellaria,media,780,"282
+",Mueller,30.296353,-97.702744,84531,0,1,LL,,,,
+Gutierrezia,sarothrae,70,"282
+",Mueller,30.296353,-97.702744,84531,1,1,LL,,,,
+Dichondra,carolinensis,500,"282
+",Mueller,30.296353,-97.702744,84531,1,1,LL,,,,
+Celtis,laevigata,6,300,North Loop, 30.315940,-97.723324,103068,1,0,LL,,,,
+Cocculus,carolinus,1,300,North Loop, 30.315940,-97.723324,103068,1,0,LL,,,,
+Ipomoea,cordatotriloba,4,300,North Loop, 30.315940,-97.723324,103068,1,0,LL,,,,
+Vitis,mustangensis,12,300,North Loop, 30.315940,-97.723324,103068,1,0,LL,,,,
+Ambrosia,trifida,2,300,North Loop, 30.315940,-97.723324,103068,1,0,LL,,,,
+Rottboellia,cochinchinensis,4,300,North Loop, 30.315940,-97.723324,103068,0,0,LL,,,,
+Calyptocarpus,vialis,50,300,North Loop, 30.315940,-97.723324,103068,0,0,LL,,,,
+Parthenium,hysterophorus,70,300,North Loop, 30.315940,-97.723324,103068,1,0,LL,,,,
+Ruellia,simplex,2,300,North Loop, 30.315940,-97.723324,103068,0,0,LL,,,,
+Amaranthus,palmeri,200,300,North Loop, 30.315940,-97.723324,103068,1,0,LL,,,,
+Cynodon,dactylon,7000,300,North Loop, 30.315940,-97.723324,103068,0,0,LL,,,,
+Calyptocarpus,vialii,1700,300,Scofield Farms,30.412641,-97.684078,79807,0,0,LL,,,,
+Cynodon,dactylon,5500,300,Scofield Farms,30.412641,-97.684078,79807,0,0,LL,,,,
+Dichondra,x,200,300,Scofield Farms,30.412641,-97.684078,79807,0,0,LL,,,,
+Lagerstroemia,x,4,300,Scofield Farms,30.412641,-97.684078,79807,0,0,LL,,,,
+Prosopis,x,20,300,Scofield Farms,30.412641,-97.684078,79807,0,0,LL,,,,
+Quercus,virginiana,15,300,Scofield Farms,30.412641,-97.684078,79807,1,0,LL,,,,
+Stellaria,media,5000,300,Scofield Farms,30.412641,-97.684078,79807,0,0,LL,,,,
+Taraxacum,officinale,1,300,Scofield Farms,30.412641,-97.684078,79807,0,0,LL,,,,
+Trachelospermum,x,500,300,Scofield Farms,30.412641,-97.684078,79807,0,0,LL,,,,
+Ulmus,crassifolia,1,300,Scofield Farms,30.412641,-97.684078,79807,1,0,LL,,,,
+Cynodon ,dactyylon,50000,300,Windsor Hills,30.386591,-97.652525,57969,0,0,LL,,,,
+Celtis,tenuifolia,7,291,Saint John,30.33909,-97.713976,36957,1,0,LL,,,,
+Cynodon,dactylon,5000,291,Saint John,30.33909,-97.713976,36957,0,0,LL,,,,
+Hibiscus,syriacus,1,291,Saint John,30.33909,-97.713976,36957,0,0,LL,,,,
+Justicia,spicigera,3,291,Saint John,30.33909,-97.713976,36957,0,0,LL,,,,
+Ligustrum,lucidum,2,291,Saint John,30.33909,-97.713976,36957,0,0,LL,,,,
+Mirabilis,jalapa,10,291,Saint John,30.33909,-97.713976,36957,0,0,LL,,,,
+Pavonia,hastata,6,291,Saint John,30.33909,-97.713976,36957,0,0,LL,,,,
+Prosopis,affinis,200,291,Saint John,30.33909,-97.713976,36957,0,0,LL,,,,
+Tradescantia,pallida,20,291,Saint John,30.33909,-97.713976,36957,1,0,LL,,,,
+Cynodon ,dactylon,40000,300,Sunset Valley,30.211945,-97.808903,46014,0,0,LL,,,,
+Quercus ,virginiana,10,300,Sunset Valley,30.211945,-97.808903,46014,1,0,LL,,,,
+Agave,decipiens,3,285,Westgate,30.206212,-97.817326,58750,0,0,LL,,,,
+Crataegus,mollis,3,285,Westgate,30.206212,-97.817326,58750,1,0,LL,,,,
+Malvastrum,coromandelianum,500,285,Westgate,30.206212,-97.817326,58750,0,0,LL,,,,
+Platanus,occidentalis,5,285,Westgate,30.206212,-97.817326,58750,1,0,LL,,,,
+Trema,micrantha,5,285,Westgate,30.206212,-97.817326,58750,0,0,LL,,,,
+Celtis,laevigata,50,276,Barton Hills,30.255883,-97.783785,122857,1,0,LL,,,,
+Handroanthus,impetiginosus,1,276,Barton Hills,30.255883,-97.783785,122857,0,0,LL,,,,
+Nandina,domestica,10,276,Barton Hills,30.255883,-97.783785,122857,0,0,LL,,,,
+Nassella,trichotoma,6,276,Barton Hills,30.255883,-97.783785,122857,0,0,LL,,,,
+Cynodon ,dactylon,65000,270,Travis Heights,30.24551,-97.743649,77105,0,0,LL,,,,
+Celtis,laevigata,10,270,Travis Heights,30.24551,-97.743649,77105,1,0,LL,,,,
+Malvastrum,coromandelianum,1000,270,Travis Heights,30.24551,-97.743649,77105,0,0,LL,,,,
+Quercus  ,virginiana,10,270,Travis Heights,30.24551,-97.743649,77105,1,0,LL,,,,
+Tradescantia,pallida,100,270,Travis Heights,30.24551,-97.743649,77105,1,0,LL,,,,
+Celtis,laevigata,10,285,Zilker,30.261132,-97.770737,42665,1,0,LL,,,,
+Quercus  ,buckleyi,10,285,Zilker,30.261132,-97.770737,42665,1,0,LL,,,,
+Lonicera ,sempervirens,10,285,Zilker,30.261132,-97.770737,42665,1,0,LL,,,,
+Atriplex,glauca,15,285,Zilker,30.261132,-97.770737,42665,0,0,LL,,,,
+Lantana,x,20,240,Circle C Ranch ,30.205586,-97.878217,56292,0,0,LL,,,,
+Cylindropuntia,imbricata,10,240,Circle C Ranch ,30.205586,-97.878217,56292,1,0,LL,,,,
+Quercus ,virginiana,7,240,Circle C Ranch ,30.205586,-97.878217,56292,1,0,LL,,,,
+Cynodon ,dactylon,40000,240,Circle C Ranch ,30.205586,-97.878217,56292,0,0,LL,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
